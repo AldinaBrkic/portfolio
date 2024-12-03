@@ -18,4 +18,4 @@ This project showcases my skills and work using React. In the portfolio, you can
 
 ## Live Demo
 
-You can access my portfolio at the following link: (https://AldinaBrkic/portfolio.github.io/portfolio)
+You can access my portfolio at the following link: (https://AldinaBrkic.github.io/portfolio)
